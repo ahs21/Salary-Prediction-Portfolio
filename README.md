@@ -1,2 +1,2 @@
 # Salary-Prediction-Portfolio
-Salary Prediction Project (Python0
+Salary Prediction Project (Python)
